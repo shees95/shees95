@@ -11,9 +11,11 @@
 
 ## Current Project
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shees95)
-- DeathRun
-- Unreal Engine Multiplayer Study
+![Stats](https://github-readme-stats.vercel.app/api?username=shees95&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shees95&layout=compact)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=shees95)
 
 ## Blog
 
