@@ -11,11 +11,11 @@
 
 ## Current Project
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shees95&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shees9565&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shees95&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shees9565&layout=compact)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=shees95)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=shees9565)
 
 ## Blog
 
