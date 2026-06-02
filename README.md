@@ -4,13 +4,14 @@
 
 ## Skills
 
-- C++
-- Unreal Engine 5
-- Git
-- Perforce
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Unreal](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine)
+![Git](https://img.shields.io/badge/Github-black?logo=GitHub)
+![Perforce](https://img.shields.io/badge/Perforce-Blue?logo=Perforce)
 
 ## Current Project
 
+![Stats](https://github-readme-stats.vercel.app/api?username=shees9565)
 - DeathRun
 - Unreal Engine Multiplayer Study
 
