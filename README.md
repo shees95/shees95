@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**shees95/shees95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+게임 프로그래머를 목표로 공부 중입니다.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- Unreal Engine 5
+- Git
+- Perforce
+
+## Current Project
+
+- DeathRun
+- Unreal Engine Multiplayer Study
+
+## Blog
+
+- https://your-blog.com
