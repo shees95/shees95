@@ -4,10 +4,10 @@
 
 ## Skills
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Unreal](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine)
-![Git](https://img.shields.io/badge/Github-black?logo=GitHub)
-![Perforce](https://img.shields.io/badge/Perforce-Blue?logo=Perforce)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus height="30")
+![Unreal](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine height="30")
+![Git](https://img.shields.io/badge/Github-black?logo=GitHub height="30")
+![Perforce](https://img.shields.io/badge/Perforce-Blue?logo=Perforce height="30")
 
 ## Current Project
 
