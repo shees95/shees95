@@ -6,8 +6,8 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Unreal](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine)
-![Git](https://img.shields.io/badge/Github-Black?style=for-the-badge&logo=github)
-![Perforce](https://img.shields.io/badge/Perforce-Blue?style=for-the-badge&logo=Perforce)
+![Git](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
+![Perforce](https://img.shields.io/badge/Perforce-blue?style=for-the-badge&logo=Perforce)
 
 ## Current Project
 
