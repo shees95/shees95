@@ -11,7 +11,7 @@
 
 ## Current Project
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shees95&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shees95&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shees95&layout=compact)
 
