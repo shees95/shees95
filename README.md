@@ -11,12 +11,13 @@
 
 ## Current Project
 
-- 
+- nullptr
 
 ## Blog
 
-- https://shees95.github.io/
+https://shees95.github.io/
 
 ## Email
+
 메일 수신처 : shees95@naver.com  
 깃허브 이메일 : shees9565@gmail.com  
