@@ -16,3 +16,7 @@
 ## Blog
 
 - https://shees95.github.io/
+
+## Email
+shees95@naver.com
+shees9565@gmail.com
