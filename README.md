@@ -18,5 +18,5 @@
 - https://shees95.github.io/
 
 ## Email
-shees95@naver.com  
-shees9565@gmail.com  
+메일 수신처 : shees95@naver.com  
+깃허브 이메일 : shees9565@gmail.com  
